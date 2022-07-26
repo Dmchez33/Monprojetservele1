@@ -1,0 +1,60 @@
+@charset "UTF-8";
+body{
+	
+	background-color: #f8f8f8;
+	
+}
+form{
+	
+	margin: auto;
+	margin-top: 20px;
+	width: 700px;
+	padding:10px;
+	
+	background-color: #ffffff;
+	box-shadow: 1px 5px 6px #ccc5b9 inset,1px 5px 6px #ccc5b9;
+	
+	background-image: url("/MonServletJsp/Quoi_Elearning_v21H16.png");
+	background-size: 450px;
+	background-repeat: no-repeat;
+	background-position: 250px;
+	
+}
+
+.form{
+	
+margin-left:25px;
+	
+}
+
+.form input{
+	
+	width: 170px;
+	height: 20px;
+	border-width: 0px;
+    border-bottom: 2px solid rgb(163, 162, 162);
+    
+}
+
+.envoyer{
+	
+	
+	width: 170px;
+	height: 50px;
+	background-color: #00a8e8;
+	box-shadow: 2px 2px 2px #d6d5c9;
+	font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: larger;
+    font-style: italic;
+	
+}
+
+.envoyer:hover{
+	
+	background-color: #b6ccfe;
+	box-shadow: 2px 2px 2px #d6d5c9 inset, 2px 2px 2px #d6d5c9;
+}
+
+
+

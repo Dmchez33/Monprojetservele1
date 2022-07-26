@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.button{
+	
+	position: relative;
+	
+	left: 800px;
+}
+
+h1{
+	
+	color: #BFCCD0;
+	
+	font-size: large;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-transform: uppercase;
+}

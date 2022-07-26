@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+input{
+	width: 200px;
+	
+	
+	
+}
+form{
+	margin: auto;
+	width: 50%;
+	
+	border: 2px solid black;
+}
